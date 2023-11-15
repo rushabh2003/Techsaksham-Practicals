@@ -11,6 +11,20 @@ tail                                                                            
 cat                                                                                                                     (display content)
 cat > fileName                                                                                               (create file with concatenated content (ctrl+d for EOL))
 
+File Access Rights:
+
+(Use ls -l to check file access rights)
+
+3 Types of Access Rights:
+• Read access (r)
+• Write access (w)
+• Execute rights (x)
+
+3 Types of Access Levels:
+• User (u): for the owner of the file
+• Group (g): each file also has a “group” attribute, corresponding to a given list of users
+• Others (o): for all other users
+
 
 
 
