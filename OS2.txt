@@ -1,0 +1,18 @@
+Working with Files:
+
+command                                                                                                         function
+touch filename1 fileName2 fileName3 ….                                          (easy way to create a file)
+cp file1 file2 or cp fileName filePath                                                     (copy content of a file to other file)
+mv fileName1 fileName2or mv fileName1 filePath/dirPath          (move file content or file to other dir)
+cp -r dirName1 dirName2                                                                          (recursive copy)
+cp file1 file2 file3 file4 file5 /dirName                                                  (cp multiple files to directory)
+head                                                                                                                  (display first 10 lines)
+tail                                                                                                                     (display last 10 lines)
+cat                                                                                                                     (display content)
+cat > fileName                                                                                               (create file with concatenated content (ctrl+d for EOL))
+
+
+
+
+
+
